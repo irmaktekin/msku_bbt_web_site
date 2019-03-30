@@ -1,0 +1,59 @@
+html,
+body,
+#header { 
+    
+    height: %100;
+    background-image : url("../img2/header.png");
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-repeat: no-repeat;
+}
+
+
+.fixed-top{
+    
+    max-width: 1140px;
+    margin: 10px auto;
+}
+
+#navbarNav a{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight:400px;
+    color:antiquewhite;
+    margin-left: 40px;
+}
+
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 33px;
+    font-style: italic;
+    font font-weight: bold;
+    color: antiquewhite;
+    
+    
+}
+
+.imagetext {
+    
+    margin-top: 20%;
+}
+    
+
+.secondline{
+    padding-left: 30px;
+   
+}
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
